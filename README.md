@@ -15,4 +15,4 @@ This was a small school project in school. The goal of the project was to use Vu
 - Use Vuex in strict mode and use a mutation. 
 - Use Prettier and ESlint. 
 
-Feel free to check it out! 🐠 
+Feel free to check it out!
