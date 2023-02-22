@@ -4,7 +4,7 @@
 This was a small school project in school. The goal of the project was to use Vue for the first time and include some different features just to try it out. The most important part of the project was making sure all the features was used at least once and working as intended so the design of the project was not a requirement. 
 
 ## See the website
-[Click here to see the website!](https://stinanorqvist.github.io/#/)
+[Click here to check out the website!](https://stinanorqvist.github.io/#/)
 
 ## Some of the requirements for the project
 - Fetch data from an API. 
