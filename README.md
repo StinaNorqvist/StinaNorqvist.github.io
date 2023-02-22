@@ -6,4 +6,6 @@ This was a small school project in school. The goal of the project was to use Vu
 ## See the website
 [Click here to see the website!](https://stinanorqvist.github.io/#/)
 
-## 
+## Goals
+- Use
+- Hej 
