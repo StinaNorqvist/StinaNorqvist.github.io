@@ -1,11 +1,18 @@
 # Fishy 🐟
 
 ## Information
-This was a small school project in school. The goal of the project was to use Vue for the first time and some different Vue features. The design of the project was not a priority, only making sure all the features was used at least once. 
+This was a small school project in school. The goal of the project was to use Vue for the first time and include some different features just to try it out. The most important part of the project was making sure all the features was used at least once and working as intended so the design of the project was not a requirement. 
 
 ## See the website
 [Click here to see the website!](https://stinanorqvist.github.io/#/)
 
-## Goals
-- Use
-- Hej 
+## Some of the requirements for the project
+- Fetch data from an API. 
+- Use v-bind, v-if, v-for, v-model, v-on, in some way. 
+- Use Vue Router for a Single Page Application. 
+- Use Sass and Bootstrap in some way. 
+- Make a computed property, a watch and a custom event. 
+- Use Vuex in strict mode and use a mutation. 
+- Use Prettier and ESlint. 
+
+Feel free to check it out! 🐠 
